@@ -9,4 +9,5 @@
     <string name="edit_text_preco">Preço</string>
     <string name="button_concluir">Concluir</string>
     <string name="button_cancelar">Cancelar</string>
+    <string name="button_delete">Deletar</string>
 </resources>

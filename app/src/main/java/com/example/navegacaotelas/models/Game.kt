@@ -1,7 +1,7 @@
 package com.example.navegacaotelas.models
 
-class Game (id: Int, nome: String, preco: String){
-    var id : Int = id
+class Game (id: Long, nome: String, preco: String){
+    var id : Long = id
     var nome : String = nome
     var preco : String = preco
 
